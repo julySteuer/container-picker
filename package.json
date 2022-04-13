@@ -1,0 +1,24 @@
+{
+  "name": "container-picker",
+  "version": "1.0.1",
+  "description": "Build your docker compose file in an declarative manner!",
+  "main": "main.js",
+  "type": "module",
+  "bin": {
+    "conpick": "main.js"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.2",
+    "inquirer-autocomplete-prompt": "^2.0.0",
+    "node-fetch": "^3.2.3",
+    "ora": "^6.1.0"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
