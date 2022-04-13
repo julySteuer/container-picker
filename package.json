@@ -8,7 +8,7 @@
     "conpick": "main.js"
   },
   "scripts": {
-    "test": "jest"
+    "test": "echo no tests specified"
   },
   "author": "",
   "license": "ISC",
